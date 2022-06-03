@@ -15,7 +15,7 @@ and postprocessing effects. (blurring, ambient occlusion, anti aliasing)
 
 
 
-Software and languages used: Unity3D, C #.
+Software and languages used: Unity3D,Blender,Materialize, Adobe Photoshop, C#.
 
 The results of  can be seen below. 
 
