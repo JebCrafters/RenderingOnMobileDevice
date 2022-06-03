@@ -28,3 +28,6 @@ https://user-images.githubusercontent.com/38751180/171843451-5a20a231-ce51-412a-
 
 https://user-images.githubusercontent.com/38751180/171843464-89af730d-b8de-4b7d-9a44-bac61182a001.mp4
 
+APK files and presentation (slovak language)
+https://drive.google.com/drive/folders/1qSZx8rsFlrIeR8OJiKToWCj6Ju7G4xxb?usp=sharing
+
